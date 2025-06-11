@@ -1,1 +1,1 @@
-# Forecasting of electricity comsumption time series
+# Forecasting electricity consumption
